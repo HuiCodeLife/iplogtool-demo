@@ -1,3 +1,3 @@
 # iplogtool-demo
 
-just custom springboot-starter
+just test custom springboot-starter
